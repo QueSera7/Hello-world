@@ -1,3 +1,3 @@
 # Hello-world
-Just try
+Just try~
 I am a UI designer and I don't know how to code.
